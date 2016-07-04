@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-06-28T12:49:46+00:00</updated><entry><title>Intermediate Python Tutorial</title><link href="/intermediate_python.html" rel="alternate"></link><published>2016-06-28T12:49:46+00:00</published><author><name>Paul Chambers</name></author><id>tag:,2016-06-28:intermediate_python.html</id><summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2016-06-28T12:49:46+00:00</updated><entry><title>Intermediate Python Tutorial</title><link href="/intermediate_python.html" rel="alternate"></link><published>2016-06-28T12:49:46+00:00</published><author><name>Paul Chambers</name></author><id>tag:,2016-06-28:intermediate_python.html</id><summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
 &lt;!-- The contents box (auto generation with [TOC] mdextension didn't extract ipython notebook headings) --&gt;
 
 &lt;!-- &lt;div class="toc" markdown="1"&gt;
